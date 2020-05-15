@@ -1,0 +1,10 @@
+Index: aaa.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- aaa.py	(revision 20d90e2a75b2821b62feeff904dbfe5fa172237b)
++++ aaa.py	(revision 20d90e2a75b2821b62feeff904dbfe5fa172237b)
+@@ -0,0 +1,1 @@
++print(1+1)
+\ No newline at end of file
